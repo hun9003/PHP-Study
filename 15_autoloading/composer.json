@@ -1,0 +1,17 @@
+{
+    "name": "home/15_autoloading",
+    "authors": [
+        {
+            "name": "hun9003",
+            "email": "65715992+hun9003@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }           
+    }
+}

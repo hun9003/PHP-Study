@@ -1,0 +1,15 @@
+{
+    "name": "home/03_good",
+    "authors": [
+        {
+            "name": "hun9003",
+            "email": "65715992+hun9003@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
